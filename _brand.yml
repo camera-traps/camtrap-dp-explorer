@@ -19,12 +19,8 @@ logo:
   large: primary
 
 color:
-  palette:
-    black: "#000000"
-    white: "#FFFFFF"
-    primary: "#4CAF50" # raptor-green from camtraptor logo
-    secondary: "#E64A19" # burnt-orange from camtraptor logo 
-
+  primary: "#4CAF50" # raptor-green from camtraptor logo
+  secondary: "#E64A19" # burnt-orange from camtraptor logo 
   foreground: black
   background: white
 
