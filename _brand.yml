@@ -1,0 +1,36 @@
+# _brand.yml
+meta:
+  name:
+    short: Camtraptor
+    full: Camtrap Data Processing Toolkit
+  link:
+    home: https://camtrap-dp.tdwg.org
+    github: https://github.com/inbo/camtraptor
+
+logo:
+  images:
+    primary: logos/camtraptor-logo.png
+    limited-black: logos/camtraptor-logo-mono-black.png
+    limited-white: logos/camtraptor-logo-mono-white.png
+  small: camtraptor-icon.png
+  medium:
+    light: limited-black
+    dark: limited-white
+  large: primary
+
+color:
+  palette:
+    black: "#000000"
+    white: "#FFFFFF"
+    primary: "#4CAF50" # raptor-green from camtraptor logo
+    secondary: "#E64A19" # burnt-orange from camtraptor logo 
+
+  foreground: black
+  background: white
+
+
+typography:
+  fonts:
+    - family: Roboto
+      source: google
+  base: Roboto
