@@ -1,6 +1,6 @@
 ui <- page_navbar(
   id = "navbar",
-  title = "CTDP Report Generator",
+  title = HTML("Camtrap DP Explorer <span style='font-size: 0.7em; font-weight: normal;'>(v0.1)</span>"),
   theme = bs_theme(brand = TRUE),
   
   ### 1. Top-level tabs -----------------------------------------
