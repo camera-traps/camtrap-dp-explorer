@@ -40,5 +40,5 @@ conflicted::conflicts_prefer(DT::renderDataTable)
 conflicted::conflicts_prefer(camtraptor::pred_in)
 
 # Source helper files
-source("scr/functions.R")
-source("scr/n_observations.R")
+source("R/functions.R")
+source("R/n_observations.R")
